@@ -4,7 +4,7 @@
     
     await sleep(5000)
 
-    var response = await fetch("https://vqceliwmwhwtfdupbywx.nhost.run/v1/functions/")
+    var response = await fetch("https://lsmjxucoamdrmbgppwuc.nhost.run/v1/functions/")
     var json = await response.json()
     
     app.innerHTML = '<h1>5</h1>'
